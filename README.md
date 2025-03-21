@@ -1,2 +1,2 @@
 # Dragons-Den
-AI driven software that will revolutionize ry pro currency 
+AI driven software that will revolutionize crypto currency 
